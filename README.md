@@ -31,7 +31,6 @@ Nesta seção, serão fornecidos alguns exemplos básicos de como usar cada API:
 ### Exemplo de Uso da API PIX
 
 ```php
-<?php
   $data = [
       'grant_type' => 'client_credentials',
       'client_id' => '{client_id}',
